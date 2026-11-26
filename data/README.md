@@ -1,0 +1,1 @@
+This folder contains demo_career_dataset.csv, a synthetic educational dataset. It is not real student or employer data. Replace it with a licensed, representative dataset before making real-world claims.
